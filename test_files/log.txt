@@ -501,3 +501,38 @@
 2024-12-03 19:27:42 Result of calculation for vector 4 sent
 2024-12-03 20:09:19 Received length of vector 4: 4
 2024-12-03 20:09:19 Result of calculation for vector 4 sent
+2024-12-16 12:18:58 Path to logfile set default value
+2024-12-16 12:18:58 Path to basefile set default value
+2024-12-16 12:18:58 Port set default value
+2024-12-16 12:18:58 Connect to database success!
+2024-12-16 12:18:58 Server started
+2024-12-16 12:18:58 Listen socket created
+2024-12-16 12:18:58 Bind success
+2024-12-16 12:28:14 Path to logfile set default value
+2024-12-16 12:28:14 Path to basefile set default value
+2024-12-16 12:28:14 Port set default value
+2024-12-16 12:28:14 Connect to database success!
+2024-12-16 12:28:14 Server started
+2024-12-16 12:28:14 Listen socket created
+2024-12-16 12:28:14 Bind success
+2024-12-16 17:51:40 Path to logfile set default value
+2024-12-16 17:51:40 Path to basefile set default value
+2024-12-16 17:51:40 Port set default value
+2024-12-16 17:51:40 Connect to database success!
+2024-12-16 17:51:40 Server started
+2024-12-16 17:51:40 Listen socket created
+2024-12-16 17:51:40 Bind success
+2024-12-16 18:10:39 Path to logfile set default value
+2024-12-16 18:10:39 Path to basefile set default value
+2024-12-16 18:10:39 Port set default value
+2024-12-16 18:10:39 Connect to database success!
+2024-12-16 18:10:39 Server started
+2024-12-16 18:10:39 Listen socket created
+2024-12-16 18:10:39 Bind success
+2024-12-16 18:10:52 Path to logfile set default value
+2024-12-16 18:10:52 Path to basefile set default value
+2024-12-16 18:10:52 Port set default value
+2024-12-16 18:10:52 Connect to database success!
+2024-12-16 18:10:52 Server started
+2024-12-16 18:10:52 Listen socket created
+2024-12-16 18:10:52 Bind success

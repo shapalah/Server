@@ -23,10 +23,10 @@ int Interface::comm_proc(int argc, const char** argv)
         opts.add_options()
         ("help,h", "Show help")
         ("basefile,b",
-         po::value<std::string>()->default_value("/home/stud/Server/test_files/auth.txt"),
+         po::value<std::string>()->default_value("test_files/auth.txt"),
          "option is string(path to file with database)") 
         ("logfile,l",                        
-         po::value<std::string>()->default_value("/home/stud/Server/test_files/log.txt"), 
+         po::value<std::string>()->default_value("test_files/log.txt"), 
          "option is string(path to file with logs)")
         ("PORT,p",                               
          po::value<int>(&PORT)->default_value(33333),
@@ -41,13 +41,13 @@ int Interface::comm_proc(int argc, const char** argv)
         }
 
         if(vm.count("basefile")) {
-            if(vm["basefile"].as<std::string>() == "/home/stud/Server/test_files/auth.txt") {
+            if(vm["basefile"].as<std::string>() == "test_files/auth.txt") {
                 flag_b = true;
             }
             basefile = vm["basefile"].as<std::string>();
         }
         if(vm.count("logfile")) {
-            if(vm["logfile"].as<std::string>() == "/home/stud/Server/test_files/log.txt") {
+            if(vm["logfile"].as<std::string>() == "test_files/log.txt") {
                 flag_l = true;
             }
             logfile = vm["logfile"].as<std::string>();
@@ -66,12 +66,12 @@ int Interface::comm_proc(int argc, const char** argv)
         std::cout << "Server started with default parameters.Use -h for help"<<std::endl;
         }
     Logger l1(logfile);
-        if(logfile != "/home/stud/Server/test_files/log.txt") {
+        if(logfile != "test_files/log.txt") {
             l1.writelog("Path to logfile set value: "+logfile);
         } else {
             l1.writelog("Path to logfile set default value");
         }
-    if(basefile != "/home/stud/Server/test_files/auth.txt") {
+    if(basefile != "test_files/auth.txt") {
         l1.writelog("Path to basefile set value: " + basefile);
     } else {
         l1.writelog("Path to basefile set default value");
