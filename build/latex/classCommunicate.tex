@@ -1,0 +1,90 @@
+\hypertarget{classCommunicate}{}\doxysection{Класс Communicate}
+\label{classCommunicate}\index{Communicate@{Communicate}}
+
+
+Класс для управления коммуникациями.  
+
+
+
+
+{\ttfamily \#include $<$Communicate.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}{connection}} (int port, std\+::map$<$ std\+::string, std\+::string $>$ database, \mbox{\hyperlink{classLogger}{Logger}} $\ast$l1)
+\begin{DoxyCompactList}\small\item\em Метод для установки соединения. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Открытые статические члены}
+\begin{DoxyCompactItemize}
+\item 
+static std\+::string \mbox{\hyperlink{classCommunicate_a5604eab1afc0c61dc8e4a72ff2043cbf}{sha1}} (std\+::string input\+\_\+str)
+\begin{DoxyCompactList}\small\item\em Генерация SHA1 хеша из строки. \end{DoxyCompactList}\item 
+static std\+::string \mbox{\hyperlink{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}{generate\+\_\+salt}} ()
+\begin{DoxyCompactList}\small\item\em Генерация соли для хеширования. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для управления коммуникациями. 
+
+Этот класс предоставляет методы для установления соединений и генерации хешей. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}\label{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}} 
+\index{Communicate@{Communicate}!connection@{connection}}
+\index{connection@{connection}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{connection()}{connection()}}
+{\footnotesize\ttfamily int Communicate\+::connection (\begin{DoxyParamCaption}\item[{int}]{port,  }\item[{std\+::map$<$ std\+::string, std\+::string $>$}]{database,  }\item[{\mbox{\hyperlink{classLogger}{Logger}} $\ast$}]{l1 }\end{DoxyParamCaption})}
+
+
+
+Метод для установки соединения. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em port} & Порт для соединения. \\
+\hline
+{\em database} & Карта с данными базы. \\
+\hline
+{\em l1} & Указатель на объект \mbox{\hyperlink{classLogger}{Logger}} для логирования. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Возвращает статус соединения (0 -\/ успех, другой код -\/ ошибка). 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}\label{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}} 
+\index{Communicate@{Communicate}!generate\_salt@{generate\_salt}}
+\index{generate\_salt@{generate\_salt}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{generate\_salt()}{generate\_salt()}}
+{\footnotesize\ttfamily std\+::string Communicate\+::generate\+\_\+salt (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Генерация соли для хеширования. 
+
+\begin{DoxyReturn}{Возвращает}
+Возвращает сгенерированную соль в виде строки. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classCommunicate_a5604eab1afc0c61dc8e4a72ff2043cbf}\label{classCommunicate_a5604eab1afc0c61dc8e4a72ff2043cbf}} 
+\index{Communicate@{Communicate}!sha1@{sha1}}
+\index{sha1@{sha1}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{sha1()}{sha1()}}
+{\footnotesize\ttfamily std\+::string Communicate\+::sha1 (\begin{DoxyParamCaption}\item[{std\+::string}]{input\+\_\+str }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Генерация SHA1 хеша из строки. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em input\+\_\+str} & Входная строка для хеширования. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Возвращает хеш в виде строки. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Communicate_8h}{Communicate.\+h}}\item 
+Communicate.\+cpp\end{DoxyCompactItemize}

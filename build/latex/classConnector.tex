@@ -1,0 +1,69 @@
+\hypertarget{classConnector}{}\doxysection{Класс Connector}
+\label{classConnector}\index{Connector@{Connector}}
+
+
+Класс для подключения к базе данных.  
+
+
+
+
+{\ttfamily \#include $<$Connector.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classConnector_a8d1a76659ccadfeea79bebce89065d23}{connect}} (std\+::string base\+\_\+file=\char`\"{}test\+\_\+files/auth.\+txt\char`\"{})
+\begin{DoxyCompactList}\small\item\em Метод для подключения к базе данных. \end{DoxyCompactList}\item 
+std\+::map$<$ std\+::string, std\+::string $>$ \mbox{\hyperlink{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}{get\+\_\+data}} ()
+\begin{DoxyCompactList}\small\item\em Метод для получения данных из базы данных. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые данные}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classConnector_adf96805e822e911145a85c518ea010cc}\label{classConnector_adf96805e822e911145a85c518ea010cc}} 
+std\+::map$<$ std\+::string, std\+::string $>$ {\bfseries data\+\_\+base}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для подключения к базе данных. 
+
+Этот класс управляет подключением к файлу базы данных и предоставляет доступ к данным. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classConnector_a8d1a76659ccadfeea79bebce89065d23}\label{classConnector_a8d1a76659ccadfeea79bebce89065d23}} 
+\index{Connector@{Connector}!connect@{connect}}
+\index{connect@{connect}!Connector@{Connector}}
+\doxysubsubsection{\texorpdfstring{connect()}{connect()}}
+{\footnotesize\ttfamily int Connector\+::connect (\begin{DoxyParamCaption}\item[{std\+::string}]{base\+\_\+file = {\ttfamily \char`\"{}test\+\_\+files/auth.txt\char`\"{}} }\end{DoxyParamCaption})}
+
+
+
+Метод для подключения к базе данных. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em base\+\_\+file} & Имя файла базы данных (по умолчанию \char`\"{}test\+\_\+files/auth.\+txt\char`\"{}). \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Возвращает статус подключения (0 -\/ успех, другой код -\/ ошибка). 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}\label{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}} 
+\index{Connector@{Connector}!get\_data@{get\_data}}
+\index{get\_data@{get\_data}!Connector@{Connector}}
+\doxysubsubsection{\texorpdfstring{get\_data()}{get\_data()}}
+{\footnotesize\ttfamily std\+::map$<$ std\+::string, std\+::string $>$ Connector\+::get\+\_\+data (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Метод для получения данных из базы данных. 
+
+\begin{DoxyReturn}{Возвращает}
+Возвращает карту с данными базы. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Connector_8h}{Connector.\+h}}\item 
+Connector.\+cpp\end{DoxyCompactItemize}

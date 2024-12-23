@@ -1,0 +1,59 @@
+\hypertarget{classInterface}{}\doxysection{Класс Interface}
+\label{classInterface}\index{Interface@{Interface}}
+
+
+Класс интерфейса пользователя.  
+
+
+
+
+{\ttfamily \#include $<$Interface.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classInterface_a4406d74c75bdfe150bf72be1f1cda8b1}\label{classInterface_a4406d74c75bdfe150bf72be1f1cda8b1}} 
+{\bfseries Interface} ()
+\begin{DoxyCompactList}\small\item\em Конструктор класса \mbox{\hyperlink{classInterface}{Interface}}. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classInterface_af5d15169cdf6850a935a01301e16f21b}{comm\+\_\+proc}} (int argc, const char $\ast$$\ast$argv)
+\begin{DoxyCompactList}\small\item\em Метод обработки командной строки. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые данные}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classInterface_a3a92a1cda8aa0d051a8d80f6e07e2cbc}\label{classInterface_a3a92a1cda8aa0d051a8d80f6e07e2cbc}} 
+int {\bfseries PORT}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс интерфейса пользователя. 
+
+Этот класс отвечает за обработку команд и взаимодействие с пользователем. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classInterface_af5d15169cdf6850a935a01301e16f21b}\label{classInterface_af5d15169cdf6850a935a01301e16f21b}} 
+\index{Interface@{Interface}!comm\_proc@{comm\_proc}}
+\index{comm\_proc@{comm\_proc}!Interface@{Interface}}
+\doxysubsubsection{\texorpdfstring{comm\_proc()}{comm\_proc()}}
+{\footnotesize\ttfamily int Interface\+::comm\+\_\+proc (\begin{DoxyParamCaption}\item[{int}]{argc,  }\item[{const char $\ast$$\ast$}]{argv }\end{DoxyParamCaption})}
+
+
+
+Метод обработки командной строки. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em argc} & Количество аргументов командной строки. \\
+\hline
+{\em argv} & Массив аргументов командной строки. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Возвращает статус выполнения (0 -\/ успех, другой код -\/ ошибка). 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Interface_8h}{Interface.\+h}}\item 
+Interface.\+cpp\end{DoxyCompactItemize}

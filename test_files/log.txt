@@ -536,3 +536,1147 @@
 2024-12-16 18:10:52 Server started
 2024-12-16 18:10:52 Listen socket created
 2024-12-16 18:10:52 Bind success
+2024-12-22 21:35:40 Path to logfile set default value
+2024-12-22 21:35:40 Path to basefile set default value
+2024-12-22 21:35:40 Port set default value
+2024-12-22 21:35:40 Connect to database success!
+2024-12-22 21:35:40 Server started
+2024-12-22 21:35:40 Listen socket created
+2024-12-22 21:35:40 Bind success
+2024-12-22 21:36:48 Path to logfile set default value
+2024-12-22 21:36:48 Path to basefile set default value
+2024-12-22 21:36:48 Port set not default value
+2024-12-22 21:36:48 Connect to database success!
+2024-12-22 21:36:48 Server started
+2024-12-22 21:36:48 Listen socket created
+2024-12-22 21:36:48 Bind success
+2024-12-22 21:39:41 Path to logfile set default value
+2024-12-22 21:39:41 Path to basefile set value: auth.txt
+2024-12-22 21:39:41 Port set default value
+2024-12-22 21:40:02 Path to logfile set default value
+2024-12-22 21:40:02 Path to basefile set default value
+2024-12-22 21:40:02 Port set default value
+2024-12-22 21:40:02 Connect to database success!
+2024-12-22 21:40:02 Server started
+2024-12-22 21:40:02 Listen socket created
+2024-12-22 21:40:02 Bind success
+2024-12-22 22:38:01 Path to logfile set default value
+2024-12-22 22:38:01 Path to basefile set value: auth.txt
+2024-12-22 22:38:01 Port set default value
+2024-12-22 22:38:14 Path to logfile set default value
+2024-12-22 22:38:14 Path to basefile set default value
+2024-12-22 22:38:14 Port set default value
+2024-12-22 22:38:14 Connect to database success!
+2024-12-22 22:38:14 Server started
+2024-12-22 22:38:14 Listen socket created
+2024-12-22 22:38:14 Bind success
+2024-12-22 22:38:36 Path to logfile set default value
+2024-12-22 22:38:36 Path to basefile set value: test_files/authtxt
+2024-12-22 22:38:36 Port set default value
+2024-12-22 22:38:55 Path to logfile set default value
+2024-12-22 22:38:55 Path to basefile set value: test_files/zzz
+2024-12-22 22:38:55 Port set default value
+2024-12-22 22:39:18 Path to logfile set default value
+2024-12-22 22:39:18 Path to basefile set default value
+2024-12-22 22:39:18 Port set not default value
+2024-12-22 22:39:18 Connect to database success!
+2024-12-22 22:39:18 Server started
+2024-12-22 22:39:18 Listen socket created
+2024-12-22 22:39:18 Bind success
+2024-12-22 22:58:00 Path to logfile set default value
+2024-12-22 22:58:00 Path to basefile set default value
+2024-12-22 22:58:00 Port set default value
+2024-12-22 22:58:00 Connect to database success!
+2024-12-22 22:58:00 Server started
+2024-12-22 22:58:00 Listen socket created
+2024-12-22 22:58:00 Bind success
+2024-12-22 22:59:30 Path to logfile set default value
+2024-12-22 22:59:30 Path to basefile set default value
+2024-12-22 22:59:30 Port set not default value
+2024-12-22 22:59:30 Connect to database success!
+2024-12-22 22:59:30 Server started
+2024-12-22 22:59:30 Listen socket created
+2024-12-22 22:59:30 Bind success
+2024-12-23 01:16:55 Path to logfile set default value
+2024-12-23 01:16:55 Path to basefile set default value
+2024-12-23 01:16:55 Port set default value
+2024-12-23 01:16:55 Connect to database success!
+2024-12-23 01:16:55 Server started
+2024-12-23 01:16:55 Listen socket created
+2024-12-23 01:16:55 Bind success
+2024-12-23 01:18:25 Path to logfile set default value
+2024-12-23 01:18:25 Path to basefile set default value
+2024-12-23 01:18:25 Port set not default value
+2024-12-23 01:18:25 Connect to database success!
+2024-12-23 01:18:25 Server started
+2024-12-23 01:18:25 Listen socket created
+2024-12-23 01:18:25 Bind success
+2024-12-23 01:19:02 Path to logfile set default value
+2024-12-23 01:19:02 Path to basefile set default value
+2024-12-23 01:19:02 Port set not default value
+2024-12-23 01:19:02 Connect to database success!
+2024-12-23 01:19:02 Server started
+2024-12-23 01:19:02 Listen socket created
+2024-12-23 01:19:02 Bind success
+2024-12-23 01:21:14 Path to logfile set default value
+2024-12-23 01:21:14 Path to basefile set default value
+2024-12-23 01:21:14 Port set default value
+2024-12-23 01:21:14 Connect to database success!
+2024-12-23 01:21:14 Server started
+2024-12-23 01:21:14 Listen socket created
+2024-12-23 01:21:14 Bind success
+2024-12-23 16:08:20 Path to logfile set default value
+2024-12-23 16:08:20 Path to basefile set default value
+2024-12-23 16:08:20 Port set default value
+2024-12-23 16:08:20 Connect to database success!
+2024-12-23 16:08:20 Server started
+2024-12-23 16:08:20 Listen socket created
+2024-12-23 16:08:20 Bind success
+2024-12-23 16:09:33 Client socket created
+2024-12-23 16:09:33 Received number of vectors: 4
+2024-12-23 16:09:33 Received length of vector 1: 4
+2024-12-23 16:09:33 Result of calculation for vector 1 sent
+2024-12-23 16:09:33 Received length of vector 2: 4
+2024-12-23 16:09:33 Result of calculation for vector 2 sent
+2024-12-23 16:09:33 Received length of vector 3: 4
+2024-12-23 16:09:33 Result of calculation for vector 3 sent
+2024-12-23 16:09:33 Received length of vector 4: 4
+2024-12-23 16:09:33 Result of calculation for vector 4 sent
+2024-12-23 16:15:21 Path to logfile set default value
+2024-12-23 16:15:21 Path to basefile set default value
+2024-12-23 16:15:21 Port set default value
+2024-12-23 16:15:21 Connect to database success!
+2024-12-23 16:15:21 Server started
+2024-12-23 16:15:21 Listen socket created
+2024-12-23 16:15:21 Bind success
+2024-12-23 16:16:37 Client socket created
+2024-12-23 16:16:37 Received number of vectors: 4
+2024-12-23 16:16:37 Received length of vector 1: 4
+2024-12-23 16:16:37 Result of calculation for vector 1 sent
+2024-12-23 16:16:37 Received length of vector 2: 4
+2024-12-23 16:16:37 Result of calculation for vector 2 sent
+2024-12-23 16:16:37 Received length of vector 3: 4
+2024-12-23 16:16:37 Result of calculation for vector 3 sent
+2024-12-23 16:16:37 Received length of vector 4: 4
+2024-12-23 16:16:37 Result of calculation for vector 4 sent
+2024-12-23 16:16:37 Client socket created
+2024-12-23 16:16:37 Received number of vectors: 4
+2024-12-23 16:16:37 Received length of vector 1: 4
+2024-12-23 16:16:37 Result of calculation for vector 1 sent
+2024-12-23 16:16:37 Received length of vector 2: 4
+2024-12-23 16:16:37 Result of calculation for vector 2 sent
+2024-12-23 16:16:37 Received length of vector 3: 4
+2024-12-23 16:16:37 Result of calculation for vector 3 sent
+2024-12-23 16:16:37 Received length of vector 4: 4
+2024-12-23 16:16:37 Result of calculation for vector 4 sent
+2024-12-23 16:16:37 Client socket created
+2024-12-23 16:16:37 Received number of vectors: 4
+2024-12-23 16:16:37 Received length of vector 1: 4
+2024-12-23 16:16:37 Result of calculation for vector 1 sent
+2024-12-23 16:16:37 Received length of vector 2: 4
+2024-12-23 16:16:37 Result of calculation for vector 2 sent
+2024-12-23 16:16:37 Received length of vector 3: 4
+2024-12-23 16:16:37 Result of calculation for vector 3 sent
+2024-12-23 16:16:37 Received length of vector 4: 4
+2024-12-23 16:16:37 Result of calculation for vector 4 sent
+2024-12-23 16:16:37 Client socket created
+2024-12-23 16:16:37 Received number of vectors: 4
+2024-12-23 16:16:37 Received length of vector 1: 4
+2024-12-23 16:16:37 Result of calculation for vector 1 sent
+2024-12-23 16:16:37 Received length of vector 2: 4
+2024-12-23 16:16:37 Result of calculation for vector 2 sent
+2024-12-23 16:16:37 Received length of vector 3: 4
+2024-12-23 16:16:37 Result of calculation for vector 3 sent
+2024-12-23 16:16:37 Received length of vector 4: 4
+2024-12-23 16:16:37 Result of calculation for vector 4 sent
+2024-12-23 16:16:37 Client socket created
+2024-12-23 16:16:37 Received number of vectors: 4
+2024-12-23 16:16:37 Received length of vector 1: 4
+2024-12-23 16:16:37 Result of calculation for vector 1 sent
+2024-12-23 16:16:37 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:38 Result of calculation for vector 3 sent
+2024-12-23 16:16:38 Received length of vector 4: 4
+2024-12-23 16:16:38 Result of calculation for vector 4 sent
+2024-12-23 16:16:38 Client socket created
+2024-12-23 16:16:38 Received number of vectors: 4
+2024-12-23 16:16:38 Received length of vector 1: 4
+2024-12-23 16:16:38 Result of calculation for vector 1 sent
+2024-12-23 16:16:38 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:38 Result of calculation for vector 3 sent
+2024-12-23 16:16:38 Received length of vector 4: 4
+2024-12-23 16:16:38 Result of calculation for vector 4 sent
+2024-12-23 16:16:38 Client socket created
+2024-12-23 16:16:38 Received number of vectors: 4
+2024-12-23 16:16:38 Received length of vector 1: 4
+2024-12-23 16:16:38 Result of calculation for vector 1 sent
+2024-12-23 16:16:38 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:38 Result of calculation for vector 3 sent
+2024-12-23 16:16:38 Received length of vector 4: 4
+2024-12-23 16:16:38 Result of calculation for vector 4 sent
+2024-12-23 16:16:38 Client socket created
+2024-12-23 16:16:38 Received number of vectors: 4
+2024-12-23 16:16:38 Received length of vector 1: 4
+2024-12-23 16:16:38 Result of calculation for vector 1 sent
+2024-12-23 16:16:38 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:38 Result of calculation for vector 3 sent
+2024-12-23 16:16:38 Received length of vector 4: 4
+2024-12-23 16:16:38 Result of calculation for vector 4 sent
+2024-12-23 16:16:38 Client socket created
+2024-12-23 16:16:38 Received number of vectors: 4
+2024-12-23 16:16:38 Received length of vector 1: 4
+2024-12-23 16:16:38 Result of calculation for vector 1 sent
+2024-12-23 16:16:38 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:38 Result of calculation for vector 3 sent
+2024-12-23 16:16:38 Received length of vector 4: 4
+2024-12-23 16:16:38 Result of calculation for vector 4 sent
+2024-12-23 16:16:38 Client socket created
+2024-12-23 16:16:38 Received number of vectors: 4
+2024-12-23 16:16:38 Received length of vector 1: 4
+2024-12-23 16:16:38 Result of calculation for vector 1 sent
+2024-12-23 16:16:38 Received length of vector 2: 4
+2024-12-23 16:16:38 Result of calculation for vector 2 sent
+2024-12-23 16:16:38 Received length of vector 3: 4
+2024-12-23 16:16:39 Result of calculation for vector 3 sent
+2024-12-23 16:16:39 Received length of vector 4: 4
+2024-12-23 16:16:39 Result of calculation for vector 4 sent
+2024-12-23 16:16:39 Client socket created
+2024-12-23 16:16:39 Received number of vectors: 4
+2024-12-23 16:16:39 Received length of vector 1: 4
+2024-12-23 16:16:39 Result of calculation for vector 1 sent
+2024-12-23 16:16:39 Received length of vector 2: 4
+2024-12-23 16:16:39 Result of calculation for vector 2 sent
+2024-12-23 16:16:39 Received length of vector 3: 4
+2024-12-23 16:16:39 Result of calculation for vector 3 sent
+2024-12-23 16:16:39 Received length of vector 4: 4
+2024-12-23 16:16:39 Result of calculation for vector 4 sent
+2024-12-23 16:16:39 Client socket created
+2024-12-23 16:16:39 Received number of vectors: 4
+2024-12-23 16:16:39 Received length of vector 1: 4
+2024-12-23 16:16:39 Result of calculation for vector 1 sent
+2024-12-23 16:16:39 Received length of vector 2: 4
+2024-12-23 16:16:39 Result of calculation for vector 2 sent
+2024-12-23 16:16:39 Received length of vector 3: 4
+2024-12-23 16:16:39 Result of calculation for vector 3 sent
+2024-12-23 16:16:39 Received length of vector 4: 4
+2024-12-23 16:16:39 Result of calculation for vector 4 sent
+2024-12-23 16:16:39 Client socket created
+2024-12-23 16:16:39 Received number of vectors: 4
+2024-12-23 16:16:39 Received length of vector 1: 4
+2024-12-23 16:16:39 Result of calculation for vector 1 sent
+2024-12-23 16:16:39 Received length of vector 2: 4
+2024-12-23 16:16:39 Result of calculation for vector 2 sent
+2024-12-23 16:16:39 Received length of vector 3: 4
+2024-12-23 16:16:39 Result of calculation for vector 3 sent
+2024-12-23 16:16:39 Received length of vector 4: 4
+2024-12-23 16:16:39 Result of calculation for vector 4 sent
+2024-12-23 16:16:39 Client socket created
+2024-12-23 16:16:39 Received number of vectors: 4
+2024-12-23 16:16:39 Received length of vector 1: 4
+2024-12-23 16:16:39 Result of calculation for vector 1 sent
+2024-12-23 16:16:39 Received length of vector 2: 4
+2024-12-23 16:16:39 Result of calculation for vector 2 sent
+2024-12-23 16:16:39 Received length of vector 3: 4
+2024-12-23 16:16:39 Result of calculation for vector 3 sent
+2024-12-23 16:16:39 Received length of vector 4: 4
+2024-12-23 16:16:39 Result of calculation for vector 4 sent
+2024-12-23 16:16:39 Client socket created
+2024-12-23 16:16:39 Received number of vectors: 4
+2024-12-23 16:16:39 Received length of vector 1: 4
+2024-12-23 16:16:39 Result of calculation for vector 1 sent
+2024-12-23 16:16:39 Received length of vector 2: 4
+2024-12-23 16:16:39 Result of calculation for vector 2 sent
+2024-12-23 16:16:39 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:40 Result of calculation for vector 4 sent
+2024-12-23 16:16:40 Client socket created
+2024-12-23 16:16:40 Received number of vectors: 4
+2024-12-23 16:16:40 Received length of vector 1: 4
+2024-12-23 16:16:40 Result of calculation for vector 1 sent
+2024-12-23 16:16:40 Received length of vector 2: 4
+2024-12-23 16:16:40 Result of calculation for vector 2 sent
+2024-12-23 16:16:40 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:40 Result of calculation for vector 4 sent
+2024-12-23 16:16:40 Client socket created
+2024-12-23 16:16:40 Received number of vectors: 4
+2024-12-23 16:16:40 Received length of vector 1: 4
+2024-12-23 16:16:40 Result of calculation for vector 1 sent
+2024-12-23 16:16:40 Received length of vector 2: 4
+2024-12-23 16:16:40 Result of calculation for vector 2 sent
+2024-12-23 16:16:40 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:40 Result of calculation for vector 4 sent
+2024-12-23 16:16:40 Client socket created
+2024-12-23 16:16:40 Received number of vectors: 4
+2024-12-23 16:16:40 Received length of vector 1: 4
+2024-12-23 16:16:40 Result of calculation for vector 1 sent
+2024-12-23 16:16:40 Received length of vector 2: 4
+2024-12-23 16:16:40 Result of calculation for vector 2 sent
+2024-12-23 16:16:40 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:40 Result of calculation for vector 4 sent
+2024-12-23 16:16:40 Client socket created
+2024-12-23 16:16:40 Received number of vectors: 4
+2024-12-23 16:16:40 Received length of vector 1: 4
+2024-12-23 16:16:40 Result of calculation for vector 1 sent
+2024-12-23 16:16:40 Received length of vector 2: 4
+2024-12-23 16:16:40 Result of calculation for vector 2 sent
+2024-12-23 16:16:40 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:40 Result of calculation for vector 4 sent
+2024-12-23 16:16:40 Client socket created
+2024-12-23 16:16:40 Received number of vectors: 4
+2024-12-23 16:16:40 Received length of vector 1: 4
+2024-12-23 16:16:40 Result of calculation for vector 1 sent
+2024-12-23 16:16:40 Received length of vector 2: 4
+2024-12-23 16:16:40 Result of calculation for vector 2 sent
+2024-12-23 16:16:40 Received length of vector 3: 4
+2024-12-23 16:16:40 Result of calculation for vector 3 sent
+2024-12-23 16:16:40 Received length of vector 4: 4
+2024-12-23 16:16:41 Result of calculation for vector 4 sent
+2024-12-23 16:16:41 Client socket created
+2024-12-23 16:16:41 Received number of vectors: 4
+2024-12-23 16:16:41 Received length of vector 1: 4
+2024-12-23 16:16:41 Result of calculation for vector 1 sent
+2024-12-23 16:16:41 Received length of vector 2: 4
+2024-12-23 16:16:41 Result of calculation for vector 2 sent
+2024-12-23 16:16:41 Received length of vector 3: 4
+2024-12-23 16:16:41 Result of calculation for vector 3 sent
+2024-12-23 16:16:41 Received length of vector 4: 4
+2024-12-23 16:16:41 Result of calculation for vector 4 sent
+2024-12-23 16:16:41 Client socket created
+2024-12-23 16:16:41 Received number of vectors: 4
+2024-12-23 16:16:41 Received length of vector 1: 4
+2024-12-23 16:16:41 Result of calculation for vector 1 sent
+2024-12-23 16:16:41 Received length of vector 2: 4
+2024-12-23 16:16:41 Result of calculation for vector 2 sent
+2024-12-23 16:16:41 Received length of vector 3: 4
+2024-12-23 16:16:41 Result of calculation for vector 3 sent
+2024-12-23 16:16:41 Received length of vector 4: 4
+2024-12-23 16:16:41 Result of calculation for vector 4 sent
+2024-12-23 16:16:41 Client socket created
+2024-12-23 16:16:41 Received number of vectors: 4
+2024-12-23 16:16:41 Received length of vector 1: 4
+2024-12-23 16:16:41 Result of calculation for vector 1 sent
+2024-12-23 16:16:41 Received length of vector 2: 4
+2024-12-23 16:16:41 Result of calculation for vector 2 sent
+2024-12-23 16:16:41 Received length of vector 3: 4
+2024-12-23 16:16:41 Result of calculation for vector 3 sent
+2024-12-23 16:16:41 Received length of vector 4: 4
+2024-12-23 16:16:41 Result of calculation for vector 4 sent
+2024-12-23 16:16:41 Client socket created
+2024-12-23 16:16:41 Received number of vectors: 4
+2024-12-23 16:16:41 Received length of vector 1: 4
+2024-12-23 16:16:41 Result of calculation for vector 1 sent
+2024-12-23 16:16:41 Received length of vector 2: 4
+2024-12-23 16:16:41 Result of calculation for vector 2 sent
+2024-12-23 16:16:41 Received length of vector 3: 4
+2024-12-23 16:16:41 Result of calculation for vector 3 sent
+2024-12-23 16:16:41 Received length of vector 4: 4
+2024-12-23 16:16:41 Result of calculation for vector 4 sent
+2024-12-23 16:16:41 Client socket created
+2024-12-23 16:16:41 Received number of vectors: 4
+2024-12-23 16:16:41 Received length of vector 1: 4
+2024-12-23 16:16:41 Result of calculation for vector 1 sent
+2024-12-23 16:16:41 Received length of vector 2: 4
+2024-12-23 16:16:41 Result of calculation for vector 2 sent
+2024-12-23 16:16:41 Received length of vector 3: 4
+2024-12-23 16:16:41 Result of calculation for vector 3 sent
+2024-12-23 16:16:41 Received length of vector 4: 4
+2024-12-23 16:16:42 Result of calculation for vector 4 sent
+2024-12-23 16:16:42 Client socket created
+2024-12-23 16:16:42 Received number of vectors: 4
+2024-12-23 16:16:42 Received length of vector 1: 4
+2024-12-23 16:16:42 Result of calculation for vector 1 sent
+2024-12-23 16:16:42 Received length of vector 2: 4
+2024-12-23 16:16:42 Result of calculation for vector 2 sent
+2024-12-23 16:16:42 Received length of vector 3: 4
+2024-12-23 16:16:42 Result of calculation for vector 3 sent
+2024-12-23 16:16:42 Received length of vector 4: 4
+2024-12-23 16:16:42 Result of calculation for vector 4 sent
+2024-12-23 16:16:42 Client socket created
+2024-12-23 16:16:42 Received number of vectors: 4
+2024-12-23 16:16:42 Received length of vector 1: 4
+2024-12-23 16:16:42 Result of calculation for vector 1 sent
+2024-12-23 16:16:42 Received length of vector 2: 4
+2024-12-23 16:16:42 Result of calculation for vector 2 sent
+2024-12-23 16:16:42 Received length of vector 3: 4
+2024-12-23 16:16:42 Result of calculation for vector 3 sent
+2024-12-23 16:16:42 Received length of vector 4: 4
+2024-12-23 16:16:42 Result of calculation for vector 4 sent
+2024-12-23 16:16:42 Client socket created
+2024-12-23 16:16:42 Received number of vectors: 4
+2024-12-23 16:16:42 Received length of vector 1: 4
+2024-12-23 16:16:42 Result of calculation for vector 1 sent
+2024-12-23 16:16:42 Received length of vector 2: 4
+2024-12-23 16:16:42 Result of calculation for vector 2 sent
+2024-12-23 16:16:42 Received length of vector 3: 4
+2024-12-23 16:16:42 Result of calculation for vector 3 sent
+2024-12-23 16:16:42 Received length of vector 4: 4
+2024-12-23 16:16:42 Result of calculation for vector 4 sent
+2024-12-23 16:16:42 Client socket created
+2024-12-23 16:16:42 Received number of vectors: 4
+2024-12-23 16:16:42 Received length of vector 1: 4
+2024-12-23 16:16:42 Result of calculation for vector 1 sent
+2024-12-23 16:16:42 Received length of vector 2: 4
+2024-12-23 16:16:42 Result of calculation for vector 2 sent
+2024-12-23 16:16:42 Received length of vector 3: 4
+2024-12-23 16:16:42 Result of calculation for vector 3 sent
+2024-12-23 16:16:42 Received length of vector 4: 4
+2024-12-23 16:16:42 Result of calculation for vector 4 sent
+2024-12-23 16:16:42 Client socket created
+2024-12-23 16:16:42 Received number of vectors: 4
+2024-12-23 16:16:42 Received length of vector 1: 4
+2024-12-23 16:16:42 Result of calculation for vector 1 sent
+2024-12-23 16:16:42 Received length of vector 2: 4
+2024-12-23 16:16:42 Result of calculation for vector 2 sent
+2024-12-23 16:16:42 Received length of vector 3: 4
+2024-12-23 16:16:43 Result of calculation for vector 3 sent
+2024-12-23 16:16:43 Received length of vector 4: 4
+2024-12-23 16:16:43 Result of calculation for vector 4 sent
+2024-12-23 16:16:43 Client socket created
+2024-12-23 16:16:43 Received number of vectors: 4
+2024-12-23 16:16:43 Received length of vector 1: 4
+2024-12-23 16:16:43 Result of calculation for vector 1 sent
+2024-12-23 16:16:43 Received length of vector 2: 4
+2024-12-23 16:16:43 Result of calculation for vector 2 sent
+2024-12-23 16:16:43 Received length of vector 3: 4
+2024-12-23 16:16:43 Result of calculation for vector 3 sent
+2024-12-23 16:16:43 Received length of vector 4: 4
+2024-12-23 16:16:43 Result of calculation for vector 4 sent
+2024-12-23 16:16:43 Client socket created
+2024-12-23 16:16:43 Received number of vectors: 4
+2024-12-23 16:16:43 Received length of vector 1: 4
+2024-12-23 16:16:43 Result of calculation for vector 1 sent
+2024-12-23 16:16:43 Received length of vector 2: 4
+2024-12-23 16:16:43 Result of calculation for vector 2 sent
+2024-12-23 16:16:43 Received length of vector 3: 4
+2024-12-23 16:16:43 Result of calculation for vector 3 sent
+2024-12-23 16:16:43 Received length of vector 4: 4
+2024-12-23 16:16:43 Result of calculation for vector 4 sent
+2024-12-23 16:16:43 Client socket created
+2024-12-23 16:16:43 Received number of vectors: 4
+2024-12-23 16:16:43 Received length of vector 1: 4
+2024-12-23 16:16:43 Result of calculation for vector 1 sent
+2024-12-23 16:16:43 Received length of vector 2: 4
+2024-12-23 16:16:43 Result of calculation for vector 2 sent
+2024-12-23 16:16:43 Received length of vector 3: 4
+2024-12-23 16:16:43 Result of calculation for vector 3 sent
+2024-12-23 16:16:43 Received length of vector 4: 4
+2024-12-23 16:16:43 Result of calculation for vector 4 sent
+2024-12-23 16:16:43 Client socket created
+2024-12-23 16:16:43 Received number of vectors: 4
+2024-12-23 16:16:43 Received length of vector 1: 4
+2024-12-23 16:16:43 Result of calculation for vector 1 sent
+2024-12-23 16:16:43 Received length of vector 2: 4
+2024-12-23 16:16:43 Result of calculation for vector 2 sent
+2024-12-23 16:16:43 Received length of vector 3: 4
+2024-12-23 16:16:43 Result of calculation for vector 3 sent
+2024-12-23 16:16:43 Received length of vector 4: 4
+2024-12-23 16:16:43 Result of calculation for vector 4 sent
+2024-12-23 16:16:43 Client socket created
+2024-12-23 16:16:43 Received number of vectors: 4
+2024-12-23 16:16:43 Received length of vector 1: 4
+2024-12-23 16:16:43 Result of calculation for vector 1 sent
+2024-12-23 16:16:43 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:44 Result of calculation for vector 4 sent
+2024-12-23 16:16:44 Client socket created
+2024-12-23 16:16:44 Received number of vectors: 4
+2024-12-23 16:16:44 Received length of vector 1: 4
+2024-12-23 16:16:44 Result of calculation for vector 1 sent
+2024-12-23 16:16:44 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:44 Result of calculation for vector 4 sent
+2024-12-23 16:16:44 Client socket created
+2024-12-23 16:16:44 Received number of vectors: 4
+2024-12-23 16:16:44 Received length of vector 1: 4
+2024-12-23 16:16:44 Result of calculation for vector 1 sent
+2024-12-23 16:16:44 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:44 Result of calculation for vector 4 sent
+2024-12-23 16:16:44 Client socket created
+2024-12-23 16:16:44 Received number of vectors: 4
+2024-12-23 16:16:44 Received length of vector 1: 4
+2024-12-23 16:16:44 Result of calculation for vector 1 sent
+2024-12-23 16:16:44 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:44 Result of calculation for vector 4 sent
+2024-12-23 16:16:44 Client socket created
+2024-12-23 16:16:44 Received number of vectors: 4
+2024-12-23 16:16:44 Received length of vector 1: 4
+2024-12-23 16:16:44 Result of calculation for vector 1 sent
+2024-12-23 16:16:44 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:44 Result of calculation for vector 4 sent
+2024-12-23 16:16:44 Client socket created
+2024-12-23 16:16:44 Received number of vectors: 4
+2024-12-23 16:16:44 Received length of vector 1: 4
+2024-12-23 16:16:44 Result of calculation for vector 1 sent
+2024-12-23 16:16:44 Received length of vector 2: 4
+2024-12-23 16:16:44 Result of calculation for vector 2 sent
+2024-12-23 16:16:44 Received length of vector 3: 4
+2024-12-23 16:16:44 Result of calculation for vector 3 sent
+2024-12-23 16:16:44 Received length of vector 4: 4
+2024-12-23 16:16:45 Result of calculation for vector 4 sent
+2024-12-23 16:16:45 Client socket created
+2024-12-23 16:16:45 Received number of vectors: 4
+2024-12-23 16:16:45 Received length of vector 1: 4
+2024-12-23 16:16:45 Result of calculation for vector 1 sent
+2024-12-23 16:16:45 Received length of vector 2: 4
+2024-12-23 16:16:45 Result of calculation for vector 2 sent
+2024-12-23 16:16:45 Received length of vector 3: 4
+2024-12-23 16:16:45 Result of calculation for vector 3 sent
+2024-12-23 16:16:45 Received length of vector 4: 4
+2024-12-23 16:16:45 Result of calculation for vector 4 sent
+2024-12-23 16:16:45 Client socket created
+2024-12-23 16:16:45 Received number of vectors: 4
+2024-12-23 16:16:45 Received length of vector 1: 4
+2024-12-23 16:16:45 Result of calculation for vector 1 sent
+2024-12-23 16:16:45 Received length of vector 2: 4
+2024-12-23 16:16:45 Result of calculation for vector 2 sent
+2024-12-23 16:16:45 Received length of vector 3: 4
+2024-12-23 16:16:45 Result of calculation for vector 3 sent
+2024-12-23 16:16:45 Received length of vector 4: 4
+2024-12-23 16:16:45 Result of calculation for vector 4 sent
+2024-12-23 16:16:45 Client socket created
+2024-12-23 16:16:45 Received number of vectors: 4
+2024-12-23 16:16:45 Received length of vector 1: 4
+2024-12-23 16:16:45 Result of calculation for vector 1 sent
+2024-12-23 16:16:45 Received length of vector 2: 4
+2024-12-23 16:16:45 Result of calculation for vector 2 sent
+2024-12-23 16:16:45 Received length of vector 3: 4
+2024-12-23 16:16:45 Result of calculation for vector 3 sent
+2024-12-23 16:16:45 Received length of vector 4: 4
+2024-12-23 16:16:45 Result of calculation for vector 4 sent
+2024-12-23 16:16:45 Client socket created
+2024-12-23 16:16:45 Received number of vectors: 4
+2024-12-23 16:16:45 Received length of vector 1: 4
+2024-12-23 16:16:45 Result of calculation for vector 1 sent
+2024-12-23 16:16:45 Received length of vector 2: 4
+2024-12-23 16:16:45 Result of calculation for vector 2 sent
+2024-12-23 16:16:45 Received length of vector 3: 4
+2024-12-23 16:16:45 Result of calculation for vector 3 sent
+2024-12-23 16:16:45 Received length of vector 4: 4
+2024-12-23 16:16:45 Result of calculation for vector 4 sent
+2024-12-23 16:16:45 Client socket created
+2024-12-23 16:16:45 Received number of vectors: 4
+2024-12-23 16:16:45 Received length of vector 1: 4
+2024-12-23 16:16:45 Result of calculation for vector 1 sent
+2024-12-23 16:16:45 Received length of vector 2: 4
+2024-12-23 16:16:45 Result of calculation for vector 2 sent
+2024-12-23 16:16:45 Received length of vector 3: 4
+2024-12-23 16:16:45 Result of calculation for vector 3 sent
+2024-12-23 16:16:45 Received length of vector 4: 4
+2024-12-23 16:16:46 Result of calculation for vector 4 sent
+2024-12-23 16:16:46 Client socket created
+2024-12-23 16:16:46 Received number of vectors: 4
+2024-12-23 16:16:46 Received length of vector 1: 4
+2024-12-23 16:16:46 Result of calculation for vector 1 sent
+2024-12-23 16:16:46 Received length of vector 2: 4
+2024-12-23 16:16:46 Result of calculation for vector 2 sent
+2024-12-23 16:16:46 Received length of vector 3: 4
+2024-12-23 16:16:46 Result of calculation for vector 3 sent
+2024-12-23 16:16:46 Received length of vector 4: 4
+2024-12-23 16:16:46 Result of calculation for vector 4 sent
+2024-12-23 16:16:46 Client socket created
+2024-12-23 16:16:46 Received number of vectors: 4
+2024-12-23 16:16:46 Received length of vector 1: 4
+2024-12-23 16:16:46 Result of calculation for vector 1 sent
+2024-12-23 16:16:46 Received length of vector 2: 4
+2024-12-23 16:16:46 Result of calculation for vector 2 sent
+2024-12-23 16:16:46 Received length of vector 3: 4
+2024-12-23 16:16:46 Result of calculation for vector 3 sent
+2024-12-23 16:16:46 Received length of vector 4: 4
+2024-12-23 16:16:46 Result of calculation for vector 4 sent
+2024-12-23 16:16:46 Client socket created
+2024-12-23 16:16:46 Received number of vectors: 4
+2024-12-23 16:16:46 Received length of vector 1: 4
+2024-12-23 16:16:46 Result of calculation for vector 1 sent
+2024-12-23 16:16:46 Received length of vector 2: 4
+2024-12-23 16:16:46 Result of calculation for vector 2 sent
+2024-12-23 16:16:46 Received length of vector 3: 4
+2024-12-23 16:16:46 Result of calculation for vector 3 sent
+2024-12-23 16:16:46 Received length of vector 4: 4
+2024-12-23 16:16:46 Result of calculation for vector 4 sent
+2024-12-23 16:16:46 Client socket created
+2024-12-23 16:16:46 Received number of vectors: 4
+2024-12-23 16:16:46 Received length of vector 1: 4
+2024-12-23 16:16:46 Result of calculation for vector 1 sent
+2024-12-23 16:16:46 Received length of vector 2: 4
+2024-12-23 16:16:46 Result of calculation for vector 2 sent
+2024-12-23 16:16:46 Received length of vector 3: 4
+2024-12-23 16:16:46 Result of calculation for vector 3 sent
+2024-12-23 16:16:46 Received length of vector 4: 4
+2024-12-23 16:16:46 Result of calculation for vector 4 sent
+2024-12-23 16:16:46 Client socket created
+2024-12-23 16:16:46 Received number of vectors: 4
+2024-12-23 16:16:47 Received length of vector 1: 4
+2024-12-23 16:16:47 Result of calculation for vector 1 sent
+2024-12-23 16:16:47 Received length of vector 2: 4
+2024-12-23 16:16:47 Result of calculation for vector 2 sent
+2024-12-23 16:16:47 Received length of vector 3: 4
+2024-12-23 16:16:47 Result of calculation for vector 3 sent
+2024-12-23 16:16:47 Received length of vector 4: 4
+2024-12-23 16:16:47 Result of calculation for vector 4 sent
+2024-12-23 16:16:47 Client socket created
+2024-12-23 16:16:47 Received number of vectors: 4
+2024-12-23 16:16:47 Received length of vector 1: 4
+2024-12-23 16:16:47 Result of calculation for vector 1 sent
+2024-12-23 16:16:47 Received length of vector 2: 4
+2024-12-23 16:16:47 Result of calculation for vector 2 sent
+2024-12-23 16:16:47 Received length of vector 3: 4
+2024-12-23 16:16:47 Result of calculation for vector 3 sent
+2024-12-23 16:16:47 Received length of vector 4: 4
+2024-12-23 16:16:47 Result of calculation for vector 4 sent
+2024-12-23 16:16:47 Client socket created
+2024-12-23 16:16:47 Received number of vectors: 4
+2024-12-23 16:16:47 Received length of vector 1: 4
+2024-12-23 16:16:47 Result of calculation for vector 1 sent
+2024-12-23 16:16:47 Received length of vector 2: 4
+2024-12-23 16:16:47 Result of calculation for vector 2 sent
+2024-12-23 16:16:47 Received length of vector 3: 4
+2024-12-23 16:16:47 Result of calculation for vector 3 sent
+2024-12-23 16:16:47 Received length of vector 4: 4
+2024-12-23 16:16:47 Result of calculation for vector 4 sent
+2024-12-23 16:16:47 Client socket created
+2024-12-23 16:16:47 Received number of vectors: 4
+2024-12-23 16:16:47 Received length of vector 1: 4
+2024-12-23 16:16:47 Result of calculation for vector 1 sent
+2024-12-23 16:16:47 Received length of vector 2: 4
+2024-12-23 16:16:47 Result of calculation for vector 2 sent
+2024-12-23 16:16:47 Received length of vector 3: 4
+2024-12-23 16:16:47 Result of calculation for vector 3 sent
+2024-12-23 16:16:47 Received length of vector 4: 4
+2024-12-23 16:16:47 Result of calculation for vector 4 sent
+2024-12-23 16:16:47 Client socket created
+2024-12-23 16:16:47 Received number of vectors: 4
+2024-12-23 16:16:47 Received length of vector 1: 4
+2024-12-23 16:16:47 Result of calculation for vector 1 sent
+2024-12-23 16:16:47 Received length of vector 2: 4
+2024-12-23 16:16:47 Result of calculation for vector 2 sent
+2024-12-23 16:16:47 Received length of vector 3: 4
+2024-12-23 16:16:47 Result of calculation for vector 3 sent
+2024-12-23 16:16:47 Received length of vector 4: 4
+2024-12-23 16:16:47 Result of calculation for vector 4 sent
+2024-12-23 16:16:47 Client socket created
+2024-12-23 16:16:47 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:48 Result of calculation for vector 3 sent
+2024-12-23 16:16:48 Received length of vector 4: 4
+2024-12-23 16:16:48 Result of calculation for vector 4 sent
+2024-12-23 16:16:48 Client socket created
+2024-12-23 16:16:48 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:48 Result of calculation for vector 3 sent
+2024-12-23 16:16:48 Received length of vector 4: 4
+2024-12-23 16:16:48 Result of calculation for vector 4 sent
+2024-12-23 16:16:48 Client socket created
+2024-12-23 16:16:48 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:48 Result of calculation for vector 3 sent
+2024-12-23 16:16:48 Received length of vector 4: 4
+2024-12-23 16:16:48 Result of calculation for vector 4 sent
+2024-12-23 16:16:48 Client socket created
+2024-12-23 16:16:48 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:48 Result of calculation for vector 3 sent
+2024-12-23 16:16:48 Received length of vector 4: 4
+2024-12-23 16:16:48 Result of calculation for vector 4 sent
+2024-12-23 16:16:48 Client socket created
+2024-12-23 16:16:48 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:48 Result of calculation for vector 3 sent
+2024-12-23 16:16:48 Received length of vector 4: 4
+2024-12-23 16:16:48 Result of calculation for vector 4 sent
+2024-12-23 16:16:48 Client socket created
+2024-12-23 16:16:48 Received number of vectors: 4
+2024-12-23 16:16:48 Received length of vector 1: 4
+2024-12-23 16:16:48 Result of calculation for vector 1 sent
+2024-12-23 16:16:48 Received length of vector 2: 4
+2024-12-23 16:16:48 Result of calculation for vector 2 sent
+2024-12-23 16:16:48 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:49 Received length of vector 1: 4
+2024-12-23 16:16:49 Result of calculation for vector 1 sent
+2024-12-23 16:16:49 Received length of vector 2: 4
+2024-12-23 16:16:49 Result of calculation for vector 2 sent
+2024-12-23 16:16:49 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:49 Received length of vector 1: 4
+2024-12-23 16:16:49 Result of calculation for vector 1 sent
+2024-12-23 16:16:49 Received length of vector 2: 4
+2024-12-23 16:16:49 Result of calculation for vector 2 sent
+2024-12-23 16:16:49 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:49 Received length of vector 1: 4
+2024-12-23 16:16:49 Result of calculation for vector 1 sent
+2024-12-23 16:16:49 Received length of vector 2: 4
+2024-12-23 16:16:49 Result of calculation for vector 2 sent
+2024-12-23 16:16:49 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:49 Received length of vector 1: 4
+2024-12-23 16:16:49 Result of calculation for vector 1 sent
+2024-12-23 16:16:49 Received length of vector 2: 4
+2024-12-23 16:16:49 Result of calculation for vector 2 sent
+2024-12-23 16:16:49 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:49 Received length of vector 1: 4
+2024-12-23 16:16:49 Result of calculation for vector 1 sent
+2024-12-23 16:16:49 Received length of vector 2: 4
+2024-12-23 16:16:49 Result of calculation for vector 2 sent
+2024-12-23 16:16:49 Received length of vector 3: 4
+2024-12-23 16:16:49 Result of calculation for vector 3 sent
+2024-12-23 16:16:49 Received length of vector 4: 4
+2024-12-23 16:16:49 Result of calculation for vector 4 sent
+2024-12-23 16:16:49 Client socket created
+2024-12-23 16:16:49 Received number of vectors: 4
+2024-12-23 16:16:50 Received length of vector 1: 4
+2024-12-23 16:16:50 Result of calculation for vector 1 sent
+2024-12-23 16:16:50 Received length of vector 2: 4
+2024-12-23 16:16:50 Result of calculation for vector 2 sent
+2024-12-23 16:16:50 Received length of vector 3: 4
+2024-12-23 16:16:50 Result of calculation for vector 3 sent
+2024-12-23 16:16:50 Received length of vector 4: 4
+2024-12-23 16:16:50 Result of calculation for vector 4 sent
+2024-12-23 16:16:50 Client socket created
+2024-12-23 16:16:50 Received number of vectors: 4
+2024-12-23 16:16:50 Received length of vector 1: 4
+2024-12-23 16:16:50 Result of calculation for vector 1 sent
+2024-12-23 16:16:50 Received length of vector 2: 4
+2024-12-23 16:16:50 Result of calculation for vector 2 sent
+2024-12-23 16:16:50 Received length of vector 3: 4
+2024-12-23 16:16:50 Result of calculation for vector 3 sent
+2024-12-23 16:16:50 Received length of vector 4: 4
+2024-12-23 16:16:50 Result of calculation for vector 4 sent
+2024-12-23 16:16:50 Client socket created
+2024-12-23 16:16:50 Received number of vectors: 4
+2024-12-23 16:16:50 Received length of vector 1: 4
+2024-12-23 16:16:50 Result of calculation for vector 1 sent
+2024-12-23 16:16:50 Received length of vector 2: 4
+2024-12-23 16:16:50 Result of calculation for vector 2 sent
+2024-12-23 16:16:50 Received length of vector 3: 4
+2024-12-23 16:16:50 Result of calculation for vector 3 sent
+2024-12-23 16:16:50 Received length of vector 4: 4
+2024-12-23 16:16:50 Result of calculation for vector 4 sent
+2024-12-23 16:16:50 Client socket created
+2024-12-23 16:16:50 Received number of vectors: 4
+2024-12-23 16:16:50 Received length of vector 1: 4
+2024-12-23 16:16:50 Result of calculation for vector 1 sent
+2024-12-23 16:16:50 Received length of vector 2: 4
+2024-12-23 16:16:50 Result of calculation for vector 2 sent
+2024-12-23 16:16:50 Received length of vector 3: 4
+2024-12-23 16:16:50 Result of calculation for vector 3 sent
+2024-12-23 16:16:50 Received length of vector 4: 4
+2024-12-23 16:16:50 Result of calculation for vector 4 sent
+2024-12-23 16:16:50 Client socket created
+2024-12-23 16:16:50 Received number of vectors: 4
+2024-12-23 16:16:50 Received length of vector 1: 4
+2024-12-23 16:16:50 Result of calculation for vector 1 sent
+2024-12-23 16:16:50 Received length of vector 2: 4
+2024-12-23 16:16:50 Result of calculation for vector 2 sent
+2024-12-23 16:16:50 Received length of vector 3: 4
+2024-12-23 16:16:50 Result of calculation for vector 3 sent
+2024-12-23 16:16:50 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:51 Result of calculation for vector 3 sent
+2024-12-23 16:16:51 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:51 Result of calculation for vector 3 sent
+2024-12-23 16:16:51 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:51 Result of calculation for vector 3 sent
+2024-12-23 16:16:51 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:51 Result of calculation for vector 3 sent
+2024-12-23 16:16:51 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:51 Result of calculation for vector 3 sent
+2024-12-23 16:16:51 Received length of vector 4: 4
+2024-12-23 16:16:51 Result of calculation for vector 4 sent
+2024-12-23 16:16:51 Client socket created
+2024-12-23 16:16:51 Received number of vectors: 4
+2024-12-23 16:16:51 Received length of vector 1: 4
+2024-12-23 16:16:51 Result of calculation for vector 1 sent
+2024-12-23 16:16:51 Received length of vector 2: 4
+2024-12-23 16:16:51 Result of calculation for vector 2 sent
+2024-12-23 16:16:51 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:52 Received length of vector 1: 4
+2024-12-23 16:16:52 Result of calculation for vector 1 sent
+2024-12-23 16:16:52 Received length of vector 2: 4
+2024-12-23 16:16:52 Result of calculation for vector 2 sent
+2024-12-23 16:16:52 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:52 Received length of vector 1: 4
+2024-12-23 16:16:52 Result of calculation for vector 1 sent
+2024-12-23 16:16:52 Received length of vector 2: 4
+2024-12-23 16:16:52 Result of calculation for vector 2 sent
+2024-12-23 16:16:52 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:52 Received length of vector 1: 4
+2024-12-23 16:16:52 Result of calculation for vector 1 sent
+2024-12-23 16:16:52 Received length of vector 2: 4
+2024-12-23 16:16:52 Result of calculation for vector 2 sent
+2024-12-23 16:16:52 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:52 Received length of vector 1: 4
+2024-12-23 16:16:52 Result of calculation for vector 1 sent
+2024-12-23 16:16:52 Received length of vector 2: 4
+2024-12-23 16:16:52 Result of calculation for vector 2 sent
+2024-12-23 16:16:52 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:52 Received length of vector 1: 4
+2024-12-23 16:16:52 Result of calculation for vector 1 sent
+2024-12-23 16:16:52 Received length of vector 2: 4
+2024-12-23 16:16:52 Result of calculation for vector 2 sent
+2024-12-23 16:16:52 Received length of vector 3: 4
+2024-12-23 16:16:52 Result of calculation for vector 3 sent
+2024-12-23 16:16:52 Received length of vector 4: 4
+2024-12-23 16:16:52 Result of calculation for vector 4 sent
+2024-12-23 16:16:52 Client socket created
+2024-12-23 16:16:52 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:53 Result of calculation for vector 3 sent
+2024-12-23 16:16:53 Received length of vector 4: 4
+2024-12-23 16:16:53 Result of calculation for vector 4 sent
+2024-12-23 16:16:53 Client socket created
+2024-12-23 16:16:53 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:53 Result of calculation for vector 3 sent
+2024-12-23 16:16:53 Received length of vector 4: 4
+2024-12-23 16:16:53 Result of calculation for vector 4 sent
+2024-12-23 16:16:53 Client socket created
+2024-12-23 16:16:53 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:53 Result of calculation for vector 3 sent
+2024-12-23 16:16:53 Received length of vector 4: 4
+2024-12-23 16:16:53 Result of calculation for vector 4 sent
+2024-12-23 16:16:53 Client socket created
+2024-12-23 16:16:53 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:53 Result of calculation for vector 3 sent
+2024-12-23 16:16:53 Received length of vector 4: 4
+2024-12-23 16:16:53 Result of calculation for vector 4 sent
+2024-12-23 16:16:53 Client socket created
+2024-12-23 16:16:53 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:53 Result of calculation for vector 3 sent
+2024-12-23 16:16:53 Received length of vector 4: 4
+2024-12-23 16:16:53 Result of calculation for vector 4 sent
+2024-12-23 16:16:53 Client socket created
+2024-12-23 16:16:53 Received number of vectors: 4
+2024-12-23 16:16:53 Received length of vector 1: 4
+2024-12-23 16:16:53 Result of calculation for vector 1 sent
+2024-12-23 16:16:53 Received length of vector 2: 4
+2024-12-23 16:16:53 Result of calculation for vector 2 sent
+2024-12-23 16:16:53 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:54 Result of calculation for vector 2 sent
+2024-12-23 16:16:54 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:54 Result of calculation for vector 2 sent
+2024-12-23 16:16:54 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:54 Result of calculation for vector 2 sent
+2024-12-23 16:16:54 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:54 Result of calculation for vector 2 sent
+2024-12-23 16:16:54 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:54 Result of calculation for vector 2 sent
+2024-12-23 16:16:54 Received length of vector 3: 4
+2024-12-23 16:16:54 Result of calculation for vector 3 sent
+2024-12-23 16:16:54 Received length of vector 4: 4
+2024-12-23 16:16:54 Result of calculation for vector 4 sent
+2024-12-23 16:16:54 Client socket created
+2024-12-23 16:16:54 Received number of vectors: 4
+2024-12-23 16:16:54 Received length of vector 1: 4
+2024-12-23 16:16:54 Result of calculation for vector 1 sent
+2024-12-23 16:16:54 Received length of vector 2: 4
+2024-12-23 16:16:55 Result of calculation for vector 2 sent
+2024-12-23 16:16:55 Received length of vector 3: 4
+2024-12-23 16:16:55 Result of calculation for vector 3 sent
+2024-12-23 16:16:55 Received length of vector 4: 4
+2024-12-23 16:16:55 Result of calculation for vector 4 sent
+2024-12-23 16:16:55 Client socket created
+2024-12-23 16:16:55 Received number of vectors: 4
+2024-12-23 16:16:55 Received length of vector 1: 4
+2024-12-23 16:16:55 Result of calculation for vector 1 sent
+2024-12-23 16:16:55 Received length of vector 2: 4
+2024-12-23 16:16:55 Result of calculation for vector 2 sent
+2024-12-23 16:16:55 Received length of vector 3: 4
+2024-12-23 16:16:55 Result of calculation for vector 3 sent
+2024-12-23 16:16:55 Received length of vector 4: 4
+2024-12-23 16:16:55 Result of calculation for vector 4 sent
+2024-12-23 16:16:55 Client socket created
+2024-12-23 16:16:55 Received number of vectors: 4
+2024-12-23 16:16:55 Received length of vector 1: 4
+2024-12-23 16:16:55 Result of calculation for vector 1 sent
+2024-12-23 16:16:55 Received length of vector 2: 4
+2024-12-23 16:16:55 Result of calculation for vector 2 sent
+2024-12-23 16:16:55 Received length of vector 3: 4
+2024-12-23 16:16:55 Result of calculation for vector 3 sent
+2024-12-23 16:16:55 Received length of vector 4: 4
+2024-12-23 16:16:55 Result of calculation for vector 4 sent
+2024-12-23 16:16:55 Client socket created
+2024-12-23 16:16:55 Received number of vectors: 4
+2024-12-23 16:16:55 Received length of vector 1: 4
+2024-12-23 16:16:55 Result of calculation for vector 1 sent
+2024-12-23 16:16:55 Received length of vector 2: 4
+2024-12-23 16:16:55 Result of calculation for vector 2 sent
+2024-12-23 16:16:55 Received length of vector 3: 4
+2024-12-23 16:16:55 Result of calculation for vector 3 sent
+2024-12-23 16:16:55 Received length of vector 4: 4
+2024-12-23 16:16:55 Result of calculation for vector 4 sent
+2024-12-23 16:16:55 Client socket created
+2024-12-23 16:16:55 Received number of vectors: 4
+2024-12-23 16:16:55 Received length of vector 1: 4
+2024-12-23 16:16:55 Result of calculation for vector 1 sent
+2024-12-23 16:16:55 Received length of vector 2: 4
+2024-12-23 16:16:55 Result of calculation for vector 2 sent
+2024-12-23 16:16:55 Received length of vector 3: 4
+2024-12-23 16:16:55 Result of calculation for vector 3 sent
+2024-12-23 16:16:55 Received length of vector 4: 4
+2024-12-23 16:16:56 Result of calculation for vector 4 sent
+2024-12-23 16:16:56 Client socket created
+2024-12-23 16:16:56 Received number of vectors: 4
+2024-12-23 16:16:56 Received length of vector 1: 4
+2024-12-23 16:16:56 Result of calculation for vector 1 sent
+2024-12-23 16:16:56 Received length of vector 2: 4
+2024-12-23 16:16:56 Result of calculation for vector 2 sent
+2024-12-23 16:16:56 Received length of vector 3: 4
+2024-12-23 16:16:56 Result of calculation for vector 3 sent
+2024-12-23 16:16:56 Received length of vector 4: 4
+2024-12-23 16:16:56 Result of calculation for vector 4 sent
+2024-12-23 16:16:56 Client socket created
+2024-12-23 16:16:56 Received number of vectors: 4
+2024-12-23 16:16:56 Received length of vector 1: 4
+2024-12-23 16:16:56 Result of calculation for vector 1 sent
+2024-12-23 16:16:56 Received length of vector 2: 4
+2024-12-23 16:16:56 Result of calculation for vector 2 sent
+2024-12-23 16:16:56 Received length of vector 3: 4
+2024-12-23 16:16:56 Result of calculation for vector 3 sent
+2024-12-23 16:16:56 Received length of vector 4: 4
+2024-12-23 16:16:56 Result of calculation for vector 4 sent
+2024-12-23 16:16:56 Client socket created
+2024-12-23 16:16:56 Received number of vectors: 4
+2024-12-23 16:16:56 Received length of vector 1: 4
+2024-12-23 16:16:56 Result of calculation for vector 1 sent
+2024-12-23 16:16:56 Received length of vector 2: 4
+2024-12-23 16:16:56 Result of calculation for vector 2 sent
+2024-12-23 16:16:56 Received length of vector 3: 4
+2024-12-23 16:16:56 Result of calculation for vector 3 sent
+2024-12-23 16:16:56 Received length of vector 4: 4
+2024-12-23 16:16:56 Result of calculation for vector 4 sent
+2024-12-23 16:16:56 Client socket created
+2024-12-23 16:16:56 Received number of vectors: 4
+2024-12-23 16:16:56 Received length of vector 1: 4
+2024-12-23 16:16:56 Result of calculation for vector 1 sent
+2024-12-23 16:16:56 Received length of vector 2: 4
+2024-12-23 16:16:56 Result of calculation for vector 2 sent
+2024-12-23 16:16:56 Received length of vector 3: 4
+2024-12-23 16:16:56 Result of calculation for vector 3 sent
+2024-12-23 16:16:56 Received length of vector 4: 4
+2024-12-23 16:16:56 Result of calculation for vector 4 sent
+2024-12-23 16:20:01 Path to logfile set default value
+2024-12-23 16:20:01 Path to basefile set default value
+2024-12-23 16:20:01 Port set not default value
+2024-12-23 16:20:01 Connect to database success!
+2024-12-23 16:20:01 Server started
+2024-12-23 16:20:01 Listen socket created
+2024-12-23 16:20:01 Bind success
+2024-12-23 16:20:55 Path to logfile set default value
+2024-12-23 16:20:55 Path to basefile set default value
+2024-12-23 16:20:55 Port set not default value
+2024-12-23 16:20:55 Connect to database success!
+2024-12-23 16:20:55 Server started
+2024-12-23 16:20:55 Listen socket created
+2024-12-23 16:20:55 Bind success
+2024-12-23 16:21:05 Path to logfile set default value
+2024-12-23 16:21:05 Path to basefile set default value
+2024-12-23 16:21:05 Port set not default value
+2024-12-23 16:21:05 Connect to database success!
+2024-12-23 16:21:05 Server started
+2024-12-23 16:21:05 Listen socket created
+2024-12-23 16:21:05 Bind success
